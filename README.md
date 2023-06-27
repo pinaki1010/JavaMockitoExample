@@ -1,11 +1,13 @@
 
 # Mockito Example
 
-[![Mockito Logo](images/mockito-logo.png)](https://mockito.org/)
+![logo](https://github.com/pinaki1010/JavaMockitoExample/assets/42297763/305e6d19-4378-46ea-bf9c-7d8df893b414)
+
 
 This repository provides a comprehensive example of how to use Mockito, a popular mocking framework for Java unit testing. Mockito allows developers to create mock objects and stub behaviors, enabling effective testing of dependencies in isolation.
 
-![Mockito Example Screenshot](images/mockito-example-screenshot.png)
+![menskool_Blog_02880bf902](https://github.com/pinaki1010/JavaMockitoExample/assets/42297763/c60f390e-f7a6-4641-bc7f-714ad4b52eb6)
+
 
 ## Features
 
